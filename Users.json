@@ -10,7 +10,8 @@
     "WindowsUser": "whois",
     "HWID": "Unknown",
     "StartDate": "2025-10-17",
-    "DurationDays": 0,
+    "DurationDays": 60,
     "IsActive": true
   }
+
 ]
