@@ -17,7 +17,8 @@
     "WindowsUser": "NONE",
     "HWID": "Unknown",
     "StartDate": "2025-11-08",
-    "DurationDays": 0,
+    "DurationDays": 30,
     "IsActive": true
   }
+
 ]
