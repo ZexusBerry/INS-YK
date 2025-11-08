@@ -12,6 +12,12 @@
     "StartDate": "2025-10-17",
     "DurationDays": 60,
     "IsActive": true
+  },
+  {
+    "WindowsUser": "NONE",
+    "HWID": "Unknown",
+    "StartDate": "2025-11-08",
+    "DurationDays": 0,
+    "IsActive": true
   }
-
 ]
